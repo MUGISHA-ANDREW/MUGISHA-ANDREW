@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Mugisha Andrew
 
-<!--
-**MUGISHA-ANDREW/MUGISHA-ANDREW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bachelor of Business Computing  Graduate at MUBS
 
-Here are some ideas to get you started:
+💻 Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+- HTML
+- CSS
+- Tailwind CSS
+- JavaScript
+- PHP
+- Laravel
+- MySQL
+- VB.NET
+
+## Current Focus
+
+- AI-Powered Applications
+- Laravel Development
+- Data Analytics
+
+## Contact
+
+📧 andrewmugisha699@gmail.com
