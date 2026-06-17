@@ -15,16 +15,10 @@
 - MySQL
 - VB.NET
 
-## Current Focus
-
-- AI-Powered Applications
-- Laravel Development
-- Data Analytics
-
 ## Contact
+Email: andrewmugisha699@gmail.com
 
-📧 andrewmugisha699@gmail.com
-
+## Languages and frameworks
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="50" height="50"/>
